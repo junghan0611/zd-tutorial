@@ -1,5 +1,7 @@
 #+TITLE: README
 
+디노트 버전으로 변경
+
 This repository contains a collection of Org-mode files that provide an introduction to Zetteldeft.
 
 Clone this repository and open file =2020-01-05-2214 START HERE.org= in Emacs to get started.
